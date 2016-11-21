@@ -7,6 +7,9 @@ Route::get('/home1', 'HomeController@home1');
 Route::get('/reg', 'HomeController@reg');
 Route::auth();
 
+//user mail verfication
+Route::get('/user/activation/{token}', 'Auth\AuthController@userActivation');
+
 /* ================== Access Uploaded Files ================== */
 Route::get('files/{hash}/{name}', 'LA\UploadsController@get_file');
 

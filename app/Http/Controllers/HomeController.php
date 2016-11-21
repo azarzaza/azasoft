@@ -52,6 +52,6 @@ class HomeController extends Controller
 
      public function reg()
     {
-       return view('userauth.register');
+       return view('auth.register');
     }
 }
