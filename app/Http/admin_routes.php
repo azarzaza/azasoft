@@ -3,6 +3,8 @@
 /* ================== Homepage ================== */
 Route::get('/', 'HomeController@index');
 Route::get('/home', 'HomeController@index');
+Route::get('/home1', 'HomeController@home1');
+Route::get('/reg', 'HomeController@reg');
 Route::auth();
 
 /* ================== Access Uploaded Files ================== */

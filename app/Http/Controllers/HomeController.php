@@ -44,4 +44,14 @@ class HomeController extends Controller
 			]);
 		}
     }
+
+    public function home1()
+    {
+        return view('home1');
+    }
+
+     public function reg()
+    {
+       return view('userauth.register');
+    }
 }
