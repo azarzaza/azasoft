@@ -1,21 +1,813 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a27b581-9eea-4b31-aaa1-26b7860aefee" name="Default" comment="lara admin installed">
+    <list default="true" id="8a27b581-9eea-4b31-aaa1-26b7860aefee" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/fonts/ionicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/fonts/ionicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/fonts/ionicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/LaraAdmin-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/app-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/arrow1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/arrow2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/avatar04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/avatar2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/avatar3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/avatar5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/boxed-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/boxed-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/credit/american-express.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/credit/cirrus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/credit/mastercard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/credit/mestro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/credit/paypal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/credit/paypal2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/credit/visa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/default-50x50.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/dwij_logo_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/item-01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/item-02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/laraadmin_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/laraadmin_logo_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/mobile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/user1-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/user2-160x160.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/user3-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/user4-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/user5-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/user6-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/user7-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/img/user8-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/colorpicker/img/alpha-horizontal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/colorpicker/img/alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/colorpicker/img/hue-horizontal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/colorpicker/img/hue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/colorpicker/img/saturation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/images/sort_asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/images/sort_asc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/images/sort_both.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/images/sort_desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/images/sort_desc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/aero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/aero@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/blue@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/flat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/flat@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/green@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/grey@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/orange@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/pink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/pink@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/purple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/purple@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/red@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/yellow@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/futurico/futurico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/futurico/futurico@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/line/line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/line/line@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/aero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/aero@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/blue@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/green@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/grey@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/minimal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/minimal@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/orange@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/pink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/pink@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/purple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/purple@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/red@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/yellow@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/polaris/polaris.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/polaris/polaris@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/aero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/aero@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/blue@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/green@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/grey@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/orange@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/pink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/pink@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/purple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/purple@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/red@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/square@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/yellow@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/ionslider/img/sprite-skin-flat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/ionslider/img/sprite-skin-nice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/application.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/code.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/css.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/db.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/directory-lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/directory.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/doc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/file-lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/film.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/flash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/folder_open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/html.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/java.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/linux.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/php.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/picture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/ppt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/psd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/ruby.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/script.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/txt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/xls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/images/zip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/LA/BackupsController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/LA/DashboardController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/LA/DepartmentsController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/LA/EmployeesController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/LA/LAConfigController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/LA/OrganizationsController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/LA/PermissionsController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/LA/RolesController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/LA/UploadsController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/LA/UsersController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/admin_routes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Models/Backup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Models/Department.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Models/Employee.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Models/Organization.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Models/Upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Permission.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Role.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/laraadmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/laravel-backup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2014_05_26_050000_create_modules_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2014_05_26_055000_create_module_field_types_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2014_05_26_060000_create_module_fields_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2014_12_01_000000_create_uploads_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_05_26_064006_create_departments_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_05_26_064007_create_employees_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_05_26_064446_create_roles_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_07_05_115343_create_role_user_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_07_06_140637_create_organizations_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_07_07_134058_create_backups_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_07_07_134058_create_menus_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_09_10_163337_create_permissions_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_09_10_163520_create_permission_role_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_09_22_105958_role_module_fields_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_09_22_110008_role_module_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_10_06_115413_create_la_configs_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/cheatsheet-fontawesome.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/AdminLTE.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/AdminLTE.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/AdminLTE.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/cheatsheet-fontawesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/ionicons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/ionicons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/_all-skins.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/_all-skins.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-black-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-black-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-black.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-black.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-blue-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-blue-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-blue.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-green-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-green-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-green.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-purple-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-purple-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-purple.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-red-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-red-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-red.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-white.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-yellow-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-yellow-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/css/skins/skin-yellow.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/fonts/ionicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/js/app.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/js/pages/dashboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/js/smoothscroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/bootstrap-datetimepicker/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/bootstrap-slider/bootstrap-slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/bootstrap-slider/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/chartjs/Chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/chartjs/Chart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/colorpicker/bootstrap-colorpicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/colorpicker/bootstrap-colorpicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/colorpicker/bootstrap-colorpicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/colorpicker/bootstrap-colorpicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/AutoFill-2.1.2/css/autoFill.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/AutoFill-2.1.2/css/autoFill.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/AutoFill-2.1.2/css/autoFill.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/AutoFill-2.1.2/css/autoFill.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/AutoFill-2.1.2/css/autoFill.foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/AutoFill-2.1.2/css/autoFill.foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/AutoFill-2.1.2/css/autoFill.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/AutoFill-2.1.2/css/autoFill.jqueryui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/AutoFill-2.1.2/js/autoFill.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/AutoFill-2.1.2/js/autoFill.bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/AutoFill-2.1.2/js/autoFill.foundation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/AutoFill-2.1.2/js/autoFill.foundation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/AutoFill-2.1.2/js/autoFill.jqueryui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/AutoFill-2.1.2/js/autoFill.jqueryui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/AutoFill-2.1.2/js/dataTables.autoFill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/AutoFill-2.1.2/js/dataTables.autoFill.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/ColReorder-1.3.2/css/colReorder.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/ColReorder-1.3.2/css/colReorder.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/ColReorder-1.3.2/css/colReorder.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/ColReorder-1.3.2/css/colReorder.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/ColReorder-1.3.2/css/colReorder.foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/ColReorder-1.3.2/css/colReorder.foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/ColReorder-1.3.2/css/colReorder.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/ColReorder-1.3.2/css/colReorder.jqueryui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/ColReorder-1.3.2/js/dataTables.colReorder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/ColReorder-1.3.2/js/dataTables.colReorder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/css/dataTables.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/css/dataTables.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/css/dataTables.foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/css/dataTables.foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/css/dataTables.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/css/dataTables.jqueryui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/css/jquery.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/css/jquery.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/css/jquery.dataTables_themeroller.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/js/dataTables.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/js/dataTables.bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/js/dataTables.foundation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/js/dataTables.foundation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/js/dataTables.jqueryui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/js/dataTables.jqueryui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/js/jquery.dataTables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/DataTables-1.10.12/js/jquery.dataTables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/FixedColumns-3.2.2/css/fixedColumns.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/FixedColumns-3.2.2/css/fixedColumns.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/FixedColumns-3.2.2/css/fixedColumns.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/FixedColumns-3.2.2/css/fixedColumns.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/FixedColumns-3.2.2/css/fixedColumns.foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/FixedColumns-3.2.2/css/fixedColumns.foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/FixedColumns-3.2.2/css/fixedColumns.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/FixedColumns-3.2.2/css/fixedColumns.jqueryui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/FixedColumns-3.2.2/js/dataTables.fixedColumns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/FixedColumns-3.2.2/js/dataTables.fixedColumns.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/FixedHeader-3.1.2/css/fixedHeader.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/FixedHeader-3.1.2/css/fixedHeader.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/FixedHeader-3.1.2/css/fixedHeader.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/FixedHeader-3.1.2/css/fixedHeader.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/FixedHeader-3.1.2/css/fixedHeader.foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/FixedHeader-3.1.2/css/fixedHeader.foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/FixedHeader-3.1.2/css/fixedHeader.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/FixedHeader-3.1.2/css/fixedHeader.jqueryui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/FixedHeader-3.1.2/js/dataTables.fixedHeader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/FixedHeader-3.1.2/js/dataTables.fixedHeader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/KeyTable-2.1.2/css/keyTable.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/KeyTable-2.1.2/css/keyTable.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/KeyTable-2.1.2/css/keyTable.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/KeyTable-2.1.2/css/keyTable.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/KeyTable-2.1.2/css/keyTable.foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/KeyTable-2.1.2/css/keyTable.foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/KeyTable-2.1.2/css/keyTable.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/KeyTable-2.1.2/css/keyTable.jqueryui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/KeyTable-2.1.2/js/dataTables.keyTable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/KeyTable-2.1.2/js/dataTables.keyTable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Responsive-2.1.0/css/responsive.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Responsive-2.1.0/css/responsive.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Responsive-2.1.0/css/responsive.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Responsive-2.1.0/css/responsive.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Responsive-2.1.0/css/responsive.foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Responsive-2.1.0/css/responsive.foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Responsive-2.1.0/css/responsive.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Responsive-2.1.0/css/responsive.jqueryui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Responsive-2.1.0/js/dataTables.responsive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Responsive-2.1.0/js/dataTables.responsive.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Responsive-2.1.0/js/responsive.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Responsive-2.1.0/js/responsive.bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Responsive-2.1.0/js/responsive.foundation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Responsive-2.1.0/js/responsive.foundation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Responsive-2.1.0/js/responsive.jqueryui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Responsive-2.1.0/js/responsive.jqueryui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/RowReorder-1.1.2/css/rowReorder.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/RowReorder-1.1.2/css/rowReorder.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/RowReorder-1.1.2/css/rowReorder.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/RowReorder-1.1.2/css/rowReorder.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/RowReorder-1.1.2/css/rowReorder.foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/RowReorder-1.1.2/css/rowReorder.foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/RowReorder-1.1.2/css/rowReorder.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/RowReorder-1.1.2/css/rowReorder.jqueryui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/RowReorder-1.1.2/js/dataTables.rowReorder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/RowReorder-1.1.2/js/dataTables.rowReorder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Scroller-1.4.2/css/scroller.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Scroller-1.4.2/css/scroller.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Scroller-1.4.2/css/scroller.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Scroller-1.4.2/css/scroller.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Scroller-1.4.2/css/scroller.foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Scroller-1.4.2/css/scroller.foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Scroller-1.4.2/css/scroller.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Scroller-1.4.2/css/scroller.jqueryui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Scroller-1.4.2/js/dataTables.scroller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Scroller-1.4.2/js/dataTables.scroller.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Select-1.2.0/css/select.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Select-1.2.0/css/select.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Select-1.2.0/css/select.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Select-1.2.0/css/select.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Select-1.2.0/css/select.foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Select-1.2.0/css/select.foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Select-1.2.0/css/select.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Select-1.2.0/css/select.jqueryui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Select-1.2.0/js/dataTables.select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/Select-1.2.0/js/dataTables.select.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/datatables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/datatables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/datatables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datatables/datatables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/bootstrap-datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/datepicker3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.kk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.kr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.nl-BE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.rs-latin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.rs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.sw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/datepicker/locales/bootstrap-datepicker.zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/daterangepicker/daterangepicker-bs3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/daterangepicker/daterangepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/daterangepicker/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/daterangepicker/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/dropzone/dropzone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/fastclick/fastclick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/fastclick/fastclick.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/excanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/excanvas.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.colorhelpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.colorhelpers.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.canvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.canvas.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.categories.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.categories.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.crosshair.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.crosshair.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.errorbars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.errorbars.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.fillbetween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.fillbetween.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.image.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.navigate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.navigate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.pie.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.resize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.selection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.selection.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.stack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.stack.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.symbol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.symbol.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.threshold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.threshold.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/flot/jquery.flot.time.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/fullcalendar/fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/fullcalendar/fullcalendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/fullcalendar/fullcalendar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/fullcalendar/fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/fullcalendar/fullcalendar.print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/_all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/aero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/flat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/flat/yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/futurico/futurico.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/icheck.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/icheck.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/line/_all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/line/aero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/line/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/line/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/line/grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/line/line.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/line/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/line/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/line/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/line/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/line/yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/_all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/aero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/minimal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/minimal/yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/polaris/polaris.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/_all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/aero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/square.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iCheck/square/yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/iconpicker/fontawesome-iconpicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/input-mask/jquery.inputmask.date.extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/input-mask/jquery.inputmask.extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/input-mask/jquery.inputmask.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/input-mask/jquery.inputmask.numeric.extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/input-mask/jquery.inputmask.phone.extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/input-mask/jquery.inputmask.regex.extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/input-mask/phone-codes/phone-be.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/input-mask/phone-codes/phone-codes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/input-mask/phone-codes/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/ionslider/ion.rangeSlider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/ionslider/ion.rangeSlider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/ionslider/ion.rangeSlider.skinFlat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/ionslider/ion.rangeSlider.skinNice.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jQuery/jQuery-2.1.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jQueryUI/jquery-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jQueryUI/jquery-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/jQueryFileTree.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-filetree/jQueryFileTree.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-validation/additional-methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-validation/additional-methods.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-validation/jquery.validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jquery-validation/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jvectormap/jquery-jvectormap-1.2.2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jvectormap/jquery-jvectormap-usa-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/jvectormap/jquery-jvectormap-world-mill-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/knob/jquery.knob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/morris/morris.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/morris/morris.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/morris/morris.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/nestable/jquery.nestable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/pace/pace.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/pace/pace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/pace/pace.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/pace/pace.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/sr-Cyrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/i18n/zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/select2.full.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/select2.full.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/select2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/select2.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/select2/select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/slimScroll/jquery.slimscroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/slimScroll/jquery.slimscroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/sparkline/jquery.sparkline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/sparkline/jquery.sparkline.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/stickytabs/jquery.stickytabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/timepicker/bootstrap-timepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/timepicker/bootstrap-timepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/timepicker/bootstrap-timepicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/la-assets/plugins/timepicker/bootstrap-timepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/.csslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/404_500_errors.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/AdminLTE.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/bootstrap-social.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/boxes.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/callout.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/control-sidebar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/direct-chat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/dropdown.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/fullcalendar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/header.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/info-box.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/invoice.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/laeditor.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/lockscreen.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/login_and_register.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/mailbox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/miscellaneous.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/modal.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/notifications.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/print.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/products.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/profile.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/select2.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/sidebar-mini.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/sidebar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/skins/_all-skins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/skins/skin-black-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/skins/skin-black.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/skins/skin-blue-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/skins/skin-blue.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/skins/skin-green-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/skins/skin-green.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/skins/skin-purple-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/skins/skin-purple.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/skins/skin-red-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/skins/skin-red.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/skins/skin-yellow-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/skins/skin-yellow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/small-box.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/social-widgets.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/table.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/timeline.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/uploads.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/users-list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/admin-lte/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/app.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/badges.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/button-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/close.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/code.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/component-animations.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/dropdowns.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/glyphicons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/input-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/jumbotron.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/media.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/background-variant.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/border-radius.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/center-block.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/clearfix.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/gradients.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/grid-framework.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/hide-text.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/image.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/nav-divider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/nav-vertical-align.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/opacity.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/progress-bar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/reset-filter.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/resize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/responsive-visibility.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/size.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/tab-focus.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/table-row.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/text-emphasis.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/text-overflow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/mixins/vendor-prefixes.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/normalize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/pager.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/popovers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/print.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/responsive-embed.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/responsive-utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/scaffolding.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/thumbnails.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/type.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/less/bootstrap/wells.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/emails/password.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/partials/social_login.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/emails/send_login_cred.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/emails/send_login_cred_change.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/errors/403.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/errors/404.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/errors/error.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/backups/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/dashboard.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/departments/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/departments/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/departments/show.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/editor/install.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/employees/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/employees/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/employees/show.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/errors/404.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/errors/500.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/errors/503.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/la_configs/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/layouts/app.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/layouts/auth.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/layouts/partials/contentheader.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/layouts/partials/controlsidebar.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/layouts/partials/file_manager.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/layouts/partials/footer.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/layouts/partials/htmlheader.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/layouts/partials/mainheader.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/layouts/partials/notifs.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/layouts/partials/scripts.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/layouts/partials/scripts_auth.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/layouts/partials/sidebar.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/layouts/partials/top_nav_menu.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/menus/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/modules/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/modules/field_edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/modules/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/modules/show.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/organizations/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/organizations/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/organizations/show.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/permissions/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/permissions/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/permissions/show.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/roles/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/roles/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/roles/show.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/uploads/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/users/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/la/vendor/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/LaraAdminModuleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/LaraAdminTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/LaraAdminWithoutLoginTest.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/User.php" afterPath="$PROJECT_DIR$/app/User.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/app.php" afterPath="$PROJECT_DIR$/config/app.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.php" afterPath="$PROJECT_DIR$/config/database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/errors/503.blade.php" afterPath="$PROJECT_DIR$/resources/views/errors/503.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/ExampleTest.php" afterPath="$PROJECT_DIR$/tests/ExampleTest.php" />
     </list>
     <ignored path="azasoft.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,21 +829,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/app.php">
+      <file leaf-file-name="laraadmin.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/laraadmin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.730769">
-              <caret line="162" column="27" selection-start-line="162" selection-start-column="27" selection-end-line="162" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AuthController.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
+      <file leaf-file-name="laravel-backup.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/laravel-backup.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35135135">
-              <caret line="104" column="11" selection-start-line="104" selection-start-column="11" selection-end-line="104" selection-end-column="11" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -198,7 +990,13 @@
       <option name="project" value="LOCAL" />
       <updated>1479704916279</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lara admin installed">
+      <created>1479706816357</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1479706816357</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -256,18 +1054,34 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.065312">
+          <caret line="117" column="48" selection-start-line="117" selection-start-column="48" selection-end-line="117" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/app.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.730769">
+        <state vertical-scroll-proportion="0.5181422">
           <caret line="162" column="27" selection-start-line="162" selection-start-column="27" selection-end-line="162" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
+    <entry file="file://$PROJECT_DIR$/config/laravel-backup.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35135135">
-          <caret line="104" column="11" selection-start-line="104" selection-start-column="11" selection-end-line="104" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/laraadmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
