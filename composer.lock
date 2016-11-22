@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "f6caa85055c52c6f2455b5532c14b9fa",
-    "content-hash": "9dc927abc971166b344ad6bd080bce3f",
+    "hash": "a330464f475ca29fb26eb4c69fcf5c41",
+    "content-hash": "98f135bca9e9a569cfa71c99238953f3",
     "packages": [
         {
             "name": "classpreloader/classpreloader",
@@ -670,16 +670,16 @@
         },
         {
             "name": "dwij/laraadmin",
-            "version": "1.0.40",
+            "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/dwijitsolutions/laraadmin.git",
-                "reference": "21d1069dee4d82c9062eabed8581249605d18282"
+                "url": "https://github.com/azarzaza/laraadmin.git",
+                "reference": "b496c2b9c8c0aec0f7ac98e241b2a427503d4fc5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dwijitsolutions/laraadmin/zipball/21d1069dee4d82c9062eabed8581249605d18282",
-                "reference": "21d1069dee4d82c9062eabed8581249605d18282",
+                "url": "https://api.github.com/repos/azarzaza/laraadmin/zipball/b496c2b9c8c0aec0f7ac98e241b2a427503d4fc5",
+                "reference": "b496c2b9c8c0aec0f7ac98e241b2a427503d4fc5",
                 "shasum": ""
             },
             "require": {
@@ -699,7 +699,6 @@
                 },
                 "files": []
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -719,7 +718,11 @@
                 "laravel",
                 "php"
             ],
-            "time": "2016-10-26 11:33:21"
+            "support": {
+                "issues": "https://github.com/dwijitsolutions/laraadmin/issues",
+                "source": "https://github.com/dwijitsolutions/laraadmin"
+            },
+            "time": "2016-11-04 09:23:27"
         },
         {
             "name": "jakub-onderka/php-console-color",
@@ -3360,16 +3363,16 @@
         },
         {
             "name": "phpspec/prophecy",
-            "version": "v1.6.1",
+            "version": "v1.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpspec/prophecy.git",
-                "reference": "58a8137754bc24b25740d4281399a4a3596058e0"
+                "reference": "6c52c2722f8460122f96f86346600e1077ce22cb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpspec/prophecy/zipball/58a8137754bc24b25740d4281399a4a3596058e0",
-                "reference": "58a8137754bc24b25740d4281399a4a3596058e0",
+                "url": "https://api.github.com/repos/phpspec/prophecy/zipball/6c52c2722f8460122f96f86346600e1077ce22cb",
+                "reference": "6c52c2722f8460122f96f86346600e1077ce22cb",
                 "shasum": ""
             },
             "require": {
@@ -3377,10 +3380,11 @@
                 "php": "^5.3|^7.0",
                 "phpdocumentor/reflection-docblock": "^2.0|^3.0.2",
                 "sebastian/comparator": "^1.1",
-                "sebastian/recursion-context": "^1.0"
+                "sebastian/recursion-context": "^1.0|^2.0"
             },
             "require-dev": {
-                "phpspec/phpspec": "^2.0"
+                "phpspec/phpspec": "^2.0",
+                "phpunit/phpunit": "^4.8 || ^5.6.5"
             },
             "type": "library",
             "extra": {
@@ -3418,7 +3422,7 @@
                 "spy",
                 "stub"
             ],
-            "time": "2016-06-07 08:13:47"
+            "time": "2016-11-21 14:58:47"
         },
         {
             "name": "phpunit/php-code-coverage",
@@ -3665,16 +3669,16 @@
         },
         {
             "name": "phpunit/phpunit",
-            "version": "4.8.28",
+            "version": "4.8.29",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "558a3a0d28b4cb7e4a593a4fbd2220e787076225"
+                "reference": "f19d481b468b76a7fb55eb2b772ed487e484891e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/558a3a0d28b4cb7e4a593a4fbd2220e787076225",
-                "reference": "558a3a0d28b4cb7e4a593a4fbd2220e787076225",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/f19d481b468b76a7fb55eb2b772ed487e484891e",
+                "reference": "f19d481b468b76a7fb55eb2b772ed487e484891e",
                 "shasum": ""
             },
             "require": {
@@ -3690,7 +3694,7 @@
                 "phpunit/php-text-template": "~1.2",
                 "phpunit/php-timer": "^1.0.6",
                 "phpunit/phpunit-mock-objects": "~2.3",
-                "sebastian/comparator": "~1.1",
+                "sebastian/comparator": "~1.2.2",
                 "sebastian/diff": "~1.2",
                 "sebastian/environment": "~1.3",
                 "sebastian/exporter": "~1.2",
@@ -3733,7 +3737,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2016-11-14 06:25:28"
+            "time": "2016-11-20 10:35:28"
         },
         {
             "name": "phpunit/phpunit-mock-objects",
@@ -4321,7 +4325,9 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {
+        "dwij/laraadmin": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
