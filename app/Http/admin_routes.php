@@ -7,8 +7,17 @@ Route::get('/home1', 'HomeController@home1');
 Route::get('/reg', 'HomeController@reg');
 Route::auth();
 
+  // Authentication Routes...
+        Route::get('/login', 'Customer\AuthController@showLoginForm');
+        Route::post('/login', 'Customer\AuthController@login');
+       Route::get('/logout', 'Customer\AuthController@logout');
+
+        // Registration Routes...
+       Route::get('/register', 'Customer\AuthController@showRegistrationForm');
+       Route::post('/register', 'Customer\AuthController@register');
+
 //user mail verfication
-Route::get('/user/activation/{token}', 'Auth\AuthController@userActivation');
+Route::get('user/activation/{token}', 'Customer\AuthController@activateUser')->name('user.activate');
 
 /* ================== Access Uploaded Files ================== */
 Route::get('files/{hash}/{name}', 'LA\UploadsController@get_file');
@@ -75,4 +84,8 @@ Route::group(['as' => $as, 'middleware' => ['auth', 'permission:ADMIN_PANEL']], 
 	Route::get(config('laraadmin.adminRoute') . '/backup_dt_ajax', 'LA\BackupsController@dtajax');
 	Route::post(config('laraadmin.adminRoute') . '/create_backup_ajax', 'LA\BackupsController@create_backup_ajax');
 	Route::get(config('laraadmin.adminRoute') . '/downloadBackup/{id}', 'LA\BackupsController@downloadBackup');
+
+	/* ================== Customers ================== */
+	Route::resource(config('laraadmin.adminRoute') . '/customers', 'LA\CustomersController');
+	Route::get(config('laraadmin.adminRoute') . '/customer_dt_ajax', 'LA\CustomersController@dtajax');
 });

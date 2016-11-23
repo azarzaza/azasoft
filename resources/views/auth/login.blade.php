@@ -8,6 +8,7 @@
 <body class="hold-transition login-page">
     <div class="login-box">
         <div class="login-logo">
+        main
             <a href="{{ url('/home') }}"><b>{{ LAConfigs::getByKey('sitename_part1') }} </b>{{ LAConfigs::getByKey('sitename_part2') }}</a>
         </div>
 
@@ -24,7 +25,7 @@
 
     <div class="login-box-body">
     <p class="login-box-msg">Sign in to start your session</p>
-    <form action="{{ url('/login') }}" method="post">
+    <form action="{{ url('admin/login') }}" method="post">
         <input type="hidden" name="_token" value="{{ csrf_token() }}">
         <div class="form-group has-feedback">
             <input type="email" class="form-control" placeholder="Email" name="email"/>
@@ -50,8 +51,8 @@
 
     @include('auth.partials.social_login')
 
-    <a href="{{ url('/password/reset') }}">I forgot my password</a><br>
-    <!--<a href="{{ url('/register') }}" class="text-center">Register a new membership</a>-->
+    <a href="{{ url('admin/password/reset') }}">I forgot my password</a><br>
+    <!--<a href="{{ url('admin/register') }}" class="text-center">Register a new membership</a>-->
 
 </div><!-- /.login-box-body -->
 

@@ -78,7 +78,7 @@
 
             @include('auth.partials.social_login')
             <hr>
-            <center><a href="{{ url('/login') }}" class="text-center">Login</a></center>
+            <center><a href="{{ url('admin/login') }}" class="text-center">Login</a></center>
         </div><!-- /.form-box -->
     </div><!-- /.register-box -->
 

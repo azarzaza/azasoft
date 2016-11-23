@@ -35,6 +35,7 @@ class AuthController extends Controller
      * @var string
      */
     protected $redirectTo = '/';
+    protected $guard = 'web';
 
     /**
      * Create a new authentication controller instance.
@@ -138,7 +139,7 @@ class AuthController extends Controller
         return $user;
     }
 
-    public function register(Request $request) {
+   /* public function register(Request $request) {
       $input = $request->all();
       $validator = $this->validator($input);
 
@@ -170,5 +171,5 @@ class AuthController extends Controller
         return redirect()->to('login')->with('success',"user active successfully.");
       }
       return redirect()->to('login')->with('Warning',"your token is invalid");
-    }
+    }*/
 }

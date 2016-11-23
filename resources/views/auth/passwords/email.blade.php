@@ -31,7 +31,7 @@
 
         <div class="login-box-body">
             <p class="login-box-msg">Reset Password</p>
-            <form action="{{ url('/password/email') }}" method="post">
+            <form action="{{ url('admin/password/email') }}" method="post">
                 <input type="hidden" name="_token" value="{{ csrf_token() }}">
                 <div class="form-group has-feedback">
                     <input type="email" class="form-control" placeholder="Email" name="email" value="{{ old('email') }}"/>
@@ -49,8 +49,8 @@
                 </div>
             </form>
 
-            <a href="{{ url('/login') }}">Log in</a><br>
-            <!--<a href="{{ url('/register') }}" class="text-center">Register a new membership</a>-->
+            <a href="{{ url('admin/login') }}">Log in</a><br>
+            <!--<a href="{{ url('admin/register') }}" class="text-center">Register a new membership</a>-->
 
         </div><!-- /.login-box-body -->
 

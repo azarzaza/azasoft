@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "a330464f475ca29fb26eb4c69fcf5c41",
-    "content-hash": "98f135bca9e9a569cfa71c99238953f3",
+    "hash": "6d77fcd48bad1e2131e59431f49a5502",
+    "content-hash": "9dc927abc971166b344ad6bd080bce3f",
     "packages": [
         {
             "name": "classpreloader/classpreloader",
@@ -670,16 +670,16 @@
         },
         {
             "name": "dwij/laraadmin",
-            "version": "dev-master",
+            "version": "1.0.40",
             "source": {
                 "type": "git",
-                "url": "https://github.com/azarzaza/laraadmin.git",
-                "reference": "b496c2b9c8c0aec0f7ac98e241b2a427503d4fc5"
+                "url": "https://github.com/dwijitsolutions/laraadmin.git",
+                "reference": "21d1069dee4d82c9062eabed8581249605d18282"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/azarzaza/laraadmin/zipball/b496c2b9c8c0aec0f7ac98e241b2a427503d4fc5",
-                "reference": "b496c2b9c8c0aec0f7ac98e241b2a427503d4fc5",
+                "url": "https://api.github.com/repos/dwijitsolutions/laraadmin/zipball/21d1069dee4d82c9062eabed8581249605d18282",
+                "reference": "21d1069dee4d82c9062eabed8581249605d18282",
                 "shasum": ""
             },
             "require": {
@@ -699,6 +699,7 @@
                 },
                 "files": []
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -718,11 +719,7 @@
                 "laravel",
                 "php"
             ],
-            "support": {
-                "issues": "https://github.com/dwijitsolutions/laraadmin/issues",
-                "source": "https://github.com/dwijitsolutions/laraadmin"
-            },
-            "time": "2016-11-04 09:23:27"
+            "time": "2016-10-26 11:33:21"
         },
         {
             "name": "jakub-onderka/php-console-color",
@@ -4325,9 +4322,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "dwij/laraadmin": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {

@@ -7,7 +7,7 @@
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.2.*",
-        "dwij/laraadmin": "dev-master"
+        "dwij/laraadmin": "1.0.40"
     },
     
     "require-dev": {
@@ -48,11 +48,6 @@
     },
     "config": {
         "preferred-install": "dist"
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/azarzaza/laraadmin.git"
-        }
-    ]
+    }
+
 }
